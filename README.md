@@ -1,6 +1,13 @@
 # Forsetningar / Forsetning
 Prepositions
 
+# Frá / From:
+https://malheildir.arnastofnun.is/?mode=rmh2019&fbclid=IwAR0Hov4fgvx_TQAJC_6ZPb5y-qXv73vdJ4bfFIBpkoJ4_aCwYhivTv9yUZg#?stats_reduce=word&isCaseInsensitive&searchBy=word&cqp=%5Bpos%20%3D%20%22r%22%20%25c%5D&search_tab=1&hpp=1000&result_tab=2&search=cqp
+
+The lower you go, the more error prone the list becomes.
+
+# Íslenskar forsetningar
+
 í  
 á  
 til  
